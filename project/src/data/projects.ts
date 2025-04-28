@@ -8,7 +8,7 @@ export const projects: Project[] = [
     description: 'A personal portfolio website to showcase projects and skills with modern design and animations.',
     tags: ['React', 'Node.js', 'Javascript'],
     image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    github: 'https://github.com/yourusername/ecommerce-platform',
+    github: 'https://github.com/SHIVAM-SHRIVASTAVA-1605/my_portfolio',
     demo: 'https://ecommerce-demo.example.com',
     featured: true,
   },
